@@ -8,3 +8,6 @@ else {
 }
 
 // Añado cambios
+//Nuevos cambios
+
+var miVariable = 0;
